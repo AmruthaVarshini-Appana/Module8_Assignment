@@ -73,12 +73,6 @@ cd backend
 npm install
 ```
 
-🔒 Create a `.env` file:
-
-```
-PORT=5000
-MONGO_URI=mongodb+srv://sudharani739628:mNZGKXPd9YAMJ2G7@cluster0.cg18wqh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-```
 
 ✅ Seed the database (optional):
 
